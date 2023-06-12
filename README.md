@@ -15,4 +15,6 @@ FOr exmaple
 
 I have fixed all these and more..
 
+
+Live Web Url: [https://devsilvar.github.io/Calculator/]
 NOTE: it is only made for Desktop View in Mind
